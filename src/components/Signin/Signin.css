@@ -1,0 +1,25 @@
+.form-section {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+.form-section img{
+    /* filter: blur(2px); */
+    border-radius: 10px;
+    width: 80%;
+}
+.form-container {
+    width: 60%;
+}
+
+
+/* Mobile device responsive */
+@media only screen and (max-width: 688px) {
+   
+    .form-section {
+        display: flex;
+        flex-direction: column;
+    }
+    
+    
+ }

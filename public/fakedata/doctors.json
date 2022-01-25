@@ -1,0 +1,44 @@
+[
+    {
+        "id": 1,
+        "name": "Tareak Al Nasir",
+        "specialties": "Cardiologist",
+        "image": "https://images.unsplash.com/photo-1582750433449-648ed127bb54?ixid=MnwxMjA3fDB8MHxzZWFyY2h8NDl8fGRvY3RvcnxlbnwwfHwwfHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60"
+    },
+    {
+        "id": 2,
+        "name": "Md. Abu Taslim",
+        "specialties": "Gastroenterologist",
+        "image": "https://media.istockphoto.com/photos/portrait-of-mature-male-doctor-wearing-white-coat-standing-in-picture-id1203995945?b=1&k=20&m=1203995945&s=170667a&w=0&h=W5pDpUgxdsBroe9aFgJUzR0Ess8xPUoST1ZjEvVRgEQ="
+    },
+    {
+        "id": 3,
+        "name": "Mofizur Rahman",
+        "specialties": "Neurologists",
+        "image": "https://images.unsplash.com/photo-1612349317150-e413f6a5b16d?ixid=MnwxMjA3fDB8MHxzZWFyY2h8OHx8ZG9jdG9yfGVufDB8fDB8fA%3D%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60"
+    },
+    {
+        "id": 4,
+        "name": "Shirajam Munira",
+        "specialties": "General Surgeons",
+        "image": "https://images.unsplash.com/photo-1594824476967-48c8b964273f?ixid=MnwxMjA3fDB8MHxzZWFyY2h8MjB8fGRvY3RvcnxlbnwwfHwwfHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60"
+    },
+    {
+        "id": 5,
+        "name": "Mahfuza Afroz Shathi",
+        "specialties": "Dermatologists",
+        "image": "https://images.unsplash.com/photo-1559839734-2b71ea197ec2?ixid=MnwxMjA3fDB8MHxzZWFyY2h8NHx8ZG9jdG9yfGVufDB8fDB8fA%3D%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60"
+    },
+    {
+        "id": 6,
+        "name": "Showkat Azad",
+        "specialties": "Neurologists",
+        "image": "https://media.istockphoto.com/photos/put-your-health-first-in-my-practice-picture-id1125677648?b=1&k=20&m=1125677648&s=170667a&w=0&h=iFfk4s6Lg8ePPoWVbg0TTRoqNx84YHLirwOKTru7XcM="
+    },
+    {
+        "id": 7,
+        "name": "Adnan Walid",
+        "specialties": "Internal Medicine (General Medicine)",
+        "image": "https://media.istockphoto.com/photos/male-medical-professional-is-confident-in-studio-picture-id1201439096?b=1&k=20&m=1201439096&s=170667a&w=0&h=YXdCLIT-e-reXi8xY-iUkg1XR4_C6TSXrljaHiFmhEU="
+    }
+]

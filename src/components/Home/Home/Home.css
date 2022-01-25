@@ -1,0 +1,28 @@
+.banner img{
+    height: 450px;
+    filter: brightness(50%);
+}
+.banner h2{
+    color: white;
+    margin-bottom:100px ;
+    text-transform:capitalize;
+    font-size: 68px;
+    letter-spacing: 3px;
+    font-weight: 700;
+}
+
+@media only screen and (max-width: 688px) {
+    .banner img{
+        display: block;
+    }
+    .banner h2{
+        color: white;
+        margin-bottom:100px ;
+        font-size: 40px;
+        letter-spacing: 1px;
+        font-weight: 700;
+    }
+    .services {
+      
+    }
+}

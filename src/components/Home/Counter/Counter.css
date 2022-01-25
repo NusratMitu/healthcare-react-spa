@@ -1,0 +1,27 @@
+.counter-container {
+    background-color: rgba(183, 187, 201, 0.363);
+    margin: 30px 150px;
+    color: rgb(98, 114, 160);
+}
+.single-counter {
+    font-size: 90px;
+    border-right: cornsilk 3px solid;
+}
+
+
+/* Mobile device responsive */
+@media only screen and (max-width: 688px) {
+   
+    .counter-container {
+        display: block;
+        margin: 10px 40px;
+        padding: 0px;
+    }
+    .single-counter {
+        border-right: 0;
+        border-bottom: cornsilk 3px solid ;
+    }
+    
+    
+    
+ }

@@ -1,0 +1,74 @@
+[
+    {
+        "id": 1,
+        "name": "Cardiologists",
+        "description": "They’re experts on the heart and blood vessels. You might see them for heart failure, a heart attack, high blood pressure, or an irregular heartbeat.",
+        "detail": "Cardiologists are doctors who specialize in diagnosing and treating diseases or conditions of the heart and blood vessels—the cardiovascular system. You might also visit a cardiologist so you can learn about your risk factors for heart disease and find out what measures you can take for better heart health. When you are dealing with a complex health condition like heart disease, it is important that you find the right match between you and your specialist. A diagnosis of heart or vascular disease often begins with your primary care doctor, who then refers you to a cardiologist. The cardiologist evaluates your symptoms and your medical history and may recommend tests for a more definite diagnosis. Then, your cardiologist decides if your condition can be managed under his or her care using medicines or other available treatments. If your cardiologist decides that you need surgery, he or she refers you to a cardiovascular surgeon, who specializes in operations on the heart, lungs, and blood vessels. You remain under the care of your cardiologist even when you are referred to other specialists. ",
+        "image": "https://media.istockphoto.com/photos/cardiologist-doctor-in-the-operation-room-picture-id182157308?b=1&k=20&m=182157308&s=170667a&w=0&h=tjh5FRIoPwfG5J96wsIsKlVzDPYIBsqUrv8-kmb61cI=",
+        "cost": 2000
+    },
+    {
+        "id": 2,
+        "name": "Gastroenterologists",
+        "description": "They’re specialists in digestive organs, including the stomach, bowels, pancreas, liver, and gallbladder. You might see them for abdominal pain, ulcers, diarrhea, jaundice, or cancers in your digestive organs.",
+        "detail": "Gastroenterology fellowship training is an intense, rigorous program where future Gastroenterologists learn directly from nationally recognized experts in the field and develop a detailed understanding of gastrointestinal diseases. They learn how to evaluate patients with gastrointestinal complaints, treat a broad range of conditions, and provide recommendations to maintain health and prevent disease. They learn to care for patients in the office as well as in the hospital. Gastroenterologists also receive dedicated training in endoscopy (upper endoscopy, sigmoidoscopy, and colonoscopy) by expert instructors. Endoscopy is the use of narrow, flexible lighted tubes with built-in video cameras, to visualize the inside of the intestinal tract. This specialized training includes detailed and intensive study of how and when to perform endoscopy, optimal methods to complete these tests safely and effectively, and the use of sedating medications to ensure the comfort and safety of patients. Gastroenterology trainees also learn how to perform advanced endoscopic procedures such as polypectomy (removalof colon polyps), esophageal and intestinal dilation (stretching of narrowed areas), and hemostasis (injection or cautery to stop bleeding). Importantly, Gastroenterologists learn how to properly interpret the findings and biopsy results of these studies in order to make appropriate recommendations to treat conditions and/or prevent cancer. Some Gastroenterologists also receive directed training in advanced procedures using endoscopes such as endoscopic biliary examination (endoscopic retrograde cholangiopancreatography or ERCP), removal of tumors without surgery (endoscopic mucosal resection or EMR), placement of internal drainage tubes (stents) and endoscopic ultrasound (EUS). This provides them with the training necessary to non-surgically remove stones in the bile ducts, evaluate and treat tumors of the gastrointestinal tract and liver, and provide minimally invasive alternatives to surgery for some patients.",
+        "image": "https://media.istockphoto.com/photos/at-doctors-appointment-physician-shows-to-patient-shape-of-stomach-picture-id1142219445?b=1&k=20&m=1142219445&s=170667a&w=0&h=og9k5YiF7ezkDTL-U2AWJ4M4KIPH3_8rIWZiso8wo5c=",
+        "cost": 1000
+    },
+    {
+        "id": 3,
+        "name": "Ophthalmologists",
+        "description": "You call them eye doctors. They can prescribe glasses or contact lenses and diagnose and treat diseases like glaucoma. Unlike optometrists, they’re medical doctors who can treat every kind of eye condition as well as operate on the eyes.",
+        "detail": "Ophthalmologists are physicians who specialize in eye care. An ophthalmologist holds the title of M.D., which refers to a Doctor of Medicine. Ophthalmologists can also hold the distinction of a D.O., which is a Doctor of Osteopathy. Regardless of that title, ophthalmologists serve the same function. They are responsible for treating problems with the eye as well as diagnosing ailments and prescribing medicine for the eye. An ophthalmologist also performs surgical procedures on the eye. Ophthalmologists perform simpler duties like prescribing corrective lenses, but are also involved in highly-advanced clinical studies and research. There are some ophthalmologists who opt to concentrate on one area of specialization and some who focus on working with children as pediatric ophthalmologists.",
+        "image": "https://media.istockphoto.com/photos/girl-visiting-pediatric-optometrist-picture-id1255859407?b=1&k=20&m=1255859407&s=170667a&w=0&h=QP50fuUt4B0CpbIN_nyld7PhQz7DDfQe5YJ4fFI4-2c=",
+        "cost": 2000
+    },
+    {
+        "id": 4,
+        "name": "Neurologists",
+        "description": "These are specialists in the nervous system, which includes the brain, spinal cord, and nerves. They treat strokes, brain and spinal tumors, epilepsy, Parkinson's disease, and Alzheimer's disease.",
+        "detail": "A neurologist is a medical doctor with specialized training in diagnosing, treating, and managing disorders of the brain and nervous system including, but not limited to, Alzheimer’s disease, amyotrophic lateral sclerosis (ALS), concussion, epilepsy, migraine, multiple sclerosis, Parkinson’s disease, and stroke.A child or pediatric, neurologist specializes in the diagnosis and treatment of neurologic disorders in children from the neonatal period through adolescence. Some of the conditions overlap with those seen by adult neurologists, and others are unique to this younger population. Child neurologists treat many of the same common conditions found in adults such as migraine, epilepsy, stroke, and Tourette’s and are also trained in conditions related to neurogenetics and developmental problems.",
+        "image": "https://media.istockphoto.com/photos/males-doctor-examining-brain-mr-picture-id1180488192?b=1&k=20&m=1180488192&s=170667a&w=0&h=F1pIMygHtpmFtzgxDKqcQcbnf8nUjvw85CgAlwFO818=",
+        "cost": 1500
+    },
+    {
+        "id": 5,
+        "name": "Dermatologists",
+        "description": "Have problems with your skin, hair, nails? Do you have moles, scars, acne, or skin allergies? Dermatologists can help.",
+        "detail": "A dermatologist is a doctor who specializes in conditions involving the skin, hair, and nails. A dermatologist can identify and treat more than 3,000 conditions. These conditions include eczema, psoriasis, and skin cancer, among many others.The skin is an incredible organ. It is your first line of defense against disease, protects your other organs, warms you up and cools you down, and sends messages about how healthy you are inside. Dermatologists are expert medical doctors and skin surgeons with the unique skills and experience to offer the best care for the organ that cares for you.Dermatologists have extensive training, going to school for 12 years or more to learn to diagnose and treat more than 3,000 diseases of the skin, hair, and nails as well as cosmetic concerns. Patients see dermatologists for issues that are much more than skin deep. Problems with their skin can harm patients’ sense of self-worth, create discomfort that can make everyday activities difficult, and, in some instances, threaten lives.",
+        "image": "https://media.istockphoto.com/photos/dermapen-skin-needling-treatment-picture-id1271011637?b=1&k=20&m=1271011637&s=170667a&w=0&h=chbZs3VrX55A3rswyXwPjUq8jZwo2BOoarPS7lHfyFc=",
+        "cost": 1000
+    },
+    {
+        "id": 6,
+        "name": "Emergency Medicine Specialists",
+        "description": "These doctors make life-or-death decisions for sick and injured people, usually in an emergency room. Their job is to save lives and to avoid or lower the chances of disability.",
+        "detail": "Medical specialists are responsible for diagnosing patients and performing medical procedures according to their areas of expertise. They coordinate with the clinical team on administering medications, conducting laboratory examinations, and monitoring admitted patients, ensuring that they receive high-quality care services from the medical staff. A medical specialist also communicates with the patients' families to respond to their medical inquiries and concerns, as well as providing them with updates on the patients' progress. A medical specialist observes the cleanliness and orderliness of the facilities at all times, including the inspection of medical tools and equipment for operations.",
+        "image": "https://media.istockphoto.com/photos/theres-always-something-waiting-to-be-discovered-picture-id1027139762?b=1&k=20&m=1027139762&s=170667a&w=0&h=eLPOckejAK8mIj2y2WJsANWY3URAkz3bqlJuGNMzZOA=",
+        "cost": 2000
+    },
+    {
+        "id": 7,
+        "name": "Psychiatrists",
+        "description": "These doctors work with people with mental, emotional, or addictive disorders. They can diagnose and treat depression, schizophrenia, substance abuse and anxiety disorders issues.",
+        "detail": "A psychiatrist is a medical doctor (an M.D. or D.O.) who specializes in mental health, including substance use disorders. Psychiatrists are qualified to assess both the mental and physical aspects of psychological problems. People seek psychiatric help for many reasons.When you make an appointment with a psychiatrist, they’ll first ask about your mental and physical symptoms. This may involve a physical exam, lab tests, and/or a psychological evaluation. As part of the process they’ll refer to the Diagnostic and Statistical Manual of Mental Disorders (DSM-5) to determine what mental illness you may have. Published by the American Psychiatric Association, this manual is used by mental health professionals for diagnoses and by insurance companies for reimbursement purposes.",
+        "image": "https://media.istockphoto.com/photos/male-patient-discussing-his-psychological-problems-in-therapy-picture-id1286437031?b=1&k=20&m=1286437031&s=170667a&w=0&h=-HrN7qA9DFp0Z7ahTzmPupTEMgNIsRXyP_g15T5rvKw=",
+        "cost": 1000
+    },
+    {
+        "id": 8,
+        "name": "General Surgeons",
+        "description": "These doctors can operate on all parts of your body. They can take out tumors, appendices, or gallbladders and repair hernias. Many surgeons have subspecialties, like cancer, hand, or vascular surgery.",
+        "detail": "In general surgery, the surgeon is expected to perform both pre- and post-operative care and management other than the surgery itself. General surgeons can diagnose several types of diseases, especially those that are related to the abdomen and the organs connected to it. These include bile ducts, liver, pancreas, spleen, appendix, small and large intestine, rectum, and the stomach. The surgeon may also operate the thoracic region, glands in the thyroids, and hernias. To a certain extent, general surgeons are also responsible for procedures performed on the skin and the breast. General surgeons are also expected to treat burn patients. Hence, aside from hospitals, they can also be found in trauma centers and emergency departments. With so many sub-specialties under surgery, people do often get confused with general surgery and cranial, cardiovascular, etc. The main difference is the kind of knowledge that general surgeons gain during training. While general surgeons learn to treat several types of diseases, they receive core knowledge. Anything that requires a more comprehensive or specific knowledge should be passed on to a specific surgeon or specialist. For example, a general surgeon can operate the vascular regions except for the heart, which should be managed by a cardiovascular surgeon.",
+        "image": "https://media.istockphoto.com/photos/emergency-room-picture-id851099598?b=1&k=20&m=851099598&s=170667a&w=0&h=bPjZ_cLYL57BVw4FCCGDBR03RvE8hgMgmXxmNUn8A-8=",
+        "cost": 2000
+    },
+    {
+        "id": 9,
+        "name": "Rheumatologists",
+        "description": "They specialize in arthritis and other diseases in your joints, muscles, bones, and tendons. You might see them for your osteoporosis (weak bones), back pain, gout, tendinitis from sports or repetitive injuries, and fibromyalgia.",
+        "detail": "A rheumatologist is an internist or pediatrician who received further training in the diagnosis (detection), and treatment of diseases that affect the muscles, bones, joints, ligaments, and tendons. These diseases can cause pain, swelling, stiffness, and potentially cause joint deformities. An old-fashioned word for these problems is “rheumatism.” Therefore, a “rheumatologist” is the doctor that treats rheumatism. Rheumatologists also treat a group of diseases called “systemic autoimmune diseases.” Other terms that you may hear or read that mean the same as systemic autoimmune diseases are “collagen vascular diseases,” and “connective tissue diseases.” This is a group of diseases where a person’s immune system attacks the person’s own body. This ends up causing inflammation in areas of the body where it is not needed, causing problems such as pain, swelling, and organ damage. These diseases can affect any part of the body to include the eyes, skin, nerves, kidneys, lungs, heart, and other internal organs. All the systemic autoimmune diseases can cause inflammation of the joints, or arthritis. Therefore, rheumatologists are considered the experts in treating this group of disorders.",
+        "image": "https://media.istockphoto.com/photos/blood-cells-on-scientific-background3d-illustration-picture-id1285253618?b=1&k=20&m=1285253618&s=170667a&w=0&h=0YYxvNhUhkmTeeQm8xkJuRkfHlnLI7rInfDd20o-5Iw=",
+        "cost": 2000
+    }
+]

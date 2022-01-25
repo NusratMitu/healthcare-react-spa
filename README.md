@@ -8,7 +8,7 @@ It's a responsive site that helps interact from both mobile and desktop. This si
     1. Email-password based authentication
     2. Google authentication 
 - Also implemented email verification and password reset system
-- Both public and the private route is implemented
+- Used both public and the private route
 - Used  Context API to share data with multiple components
 - Fixed 404 page
 

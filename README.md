@@ -15,7 +15,8 @@ It's a responsive site that helps interact from both mobile and desktop. This si
 ## Technology Used
 - React Js
 - React Router
-- React Hooks 
+- React Hooks
+- React Components (datepicker, countup)
 - React Bootstrap
 - Firebase 
 

@@ -1,6 +1,6 @@
-# [MediCare] (https://healthcare-react-website-aefac.web.app/)
+# [MediCare](https://healthcare-react-website-aefac.web.app/)
 
-[MediCare] (https://healthcare-react-website-aefac.web.app/) is a single page healthcare related application developed by react js. 
+[MediCare](https://healthcare-react-website-aefac.web.app/) is a single page healthcare related application developed by react js. 
 It's a responsive site that helps interact from both mobile and desktop. This site provides information about its services and specialists. After signing in, users can get an appointment with any specialist and know the detailed information about their services.
 
 ## functionalities of `MediCare` 
